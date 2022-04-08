@@ -14,8 +14,8 @@ Run `npm install` Or `yarn`
 
 ## Development front server
 Run `yarn start` or `npm start` for a dev server. Navigate to `http://localhost:3000/`. The app will automatically reload if you change any of the source files.
-:checked: You should see a list of employees
-:checked: You should see a form to add a new employee
+✅ You should see a list of employees
+✅ You should see a form to add a new employee
 :warning: You should filter the list using the search input. `COMING SOON` - The idea would be to pair work on this during the tech discussion.
 
 ## Development back server
