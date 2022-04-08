@@ -1,0 +1,6 @@
+[
+  {
+    "id": "base",
+    "routesVariants": ["get-employees:success", "add-employee:success", "update-employee:success"]
+  }
+]
